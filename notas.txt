@@ -1,0 +1,2 @@
+Nota 1: tudo a funcionar.
+Nota 2: push realizado com sucesso.

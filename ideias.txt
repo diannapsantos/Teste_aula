@@ -1,0 +1,3 @@
+- Adicionar imagens
+- Criar secção de contactos
+- Integrar com API futuramente
